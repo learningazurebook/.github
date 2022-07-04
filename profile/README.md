@@ -42,7 +42,7 @@ You'll gain insight into the Microsoft Azure cloud services that you can apply i
 
 ### Chapter 4 - Microsoft Azure Cloud Networking
 
-<p>This chapter covers cloud networking and services in Microsoft Azure including Azure VNet, DNS, Azure Firewall, Azure Front Door, ExpressRoute, Virtual Network, VPN Gateway, Application Gateway, Load Balancer and Internet Analyzer. Cloud networking technologies and services in Azure are important in managing and protecting your infrastructure and workloads on the cloud. </p>
+<p>This chapter covers cloud networking and services in Microsoft Azure including Azure VNet, DNS, Azure Firewall, Azure Front Door, ExpressRoute, Virtual Network, VPN Gateway, Application Gateway, Load Balancer, Internet Analyzer, and more. This chapter briefly mention about Azure Orbital, a fully-managed Ground Station as a Service (GSaaS) solution in Azure. </p>
 
 ### Chapter 5 - Microsoft Azure Cloud Storage and Databases 
 
