@@ -48,8 +48,14 @@ You'll gain insight into the Microsoft Azure cloud services that you can apply i
 
 <p>This chapter provides a technical overview of the different cloud storage and databases (both SQL and NoSQL) in Microsoft Azure. You will learn about cloud storage concepts, services, create databases and find useful best practices for Azure SQL Databases, Azure Cosmos DB, Database for MySql, Azure SQL Servers, Redis Cache in Azure, Azure Storage, Data Share and Manage Disks </p>
 
-### Chapter 6 - *Writing in progress* 
-### Chapter 7 - *Writing in progress* 
+### Chapter 6 - Microsoft Azure Artificial Intelligence (AI), Machine Learning, Cognitive Services
+
+<p> focuses on the useful concepts you need to know about Artificial Intelligence(AI), Machine Learning, Cognitive Services, Bot Services in Microsoft Azure that will help and give you knowledge in designing and building smart cloud solutions </p>
+
+### Chapter 7 - Big Data, Reporting and Analytics Services in Azure
+
+<p> explores the Big Data, Reporting and Analytical Services in Microsoft Azure. This chapter will include what you need to know about data analytics, big data, and reporting services in Power BI, Stream Analytics, Data Lake Analytics, Event Hubs, HD Insights and more. </p>
+
 ### Chapter 8 - *Writing in progress* 
 ### Chapter 9 - *Writing in progress* 
 ### Chapter 10 - *Writing in progress* 
