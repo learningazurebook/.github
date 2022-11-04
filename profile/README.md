@@ -1,6 +1,9 @@
 # Learning Microsoft Azure (The Book) 
+
 ## _Cloud Computing and Development Fundamentals_
-##### Authored by <a href="https://www.twitter.com/cjkodare" target="_blank">Jonah Carrio Andersson</a>
+##### Authored by <a href="https://www.twitter.com/cjkodare" target="_blank">Jonah Carrio Andersson (Twitter)</a> 
+<a href="https://www.linkedin.com/in/jonahandersson/" target="_blank">Jonah Carrio Andersson (LinkedIn)</a>  
+
 ##### TOPIC: Microsoft Azure 
 
 READ THE EARLY RELEASE (RAW & UNEDITED) COPY OF THE BOOK: <br>
