@@ -1,10 +1,9 @@
 # Learning Microsoft Azure (The Book) 
 
 ## _Cloud Computing and Development Fundamentals_
-##### Authored by <a href="https://www.twitter.com/cjkodare" target="_blank">Jonah Carrio Andersson (Twitter)</a> 
-<a href="https://www.linkedin.com/in/jonahandersson/" target="_blank">Jonah Carrio Andersson (LinkedIn)</a>  
+#### Authored by <a href="https://www.twitter.com/cjkodare" target="_blank">Jonah Carrio Andersson (Twitter)</a> / <a href="https://www.linkedin.com/in/jonahandersson/" target="_blank">(LinkedIn)</a>  
 
-##### TOPIC: Microsoft Azure 
+### TOPIC: Microsoft Azure, Cloud Computing, Cloud-Native Development, Learning Microsoft Azure, Azure Fundamentals
 
 READ THE EARLY RELEASE (RAW & UNEDITED) COPY OF THE BOOK: <br>
 <a href="https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/" target="_blank">Learning Microsoft Azure: Cloud Computing and Development Fundamentals by Jonah Carrio Andersson at O'Reilly Media</a>
@@ -61,7 +60,7 @@ You'll gain insight into the Microsoft Azure cloud services that you can apply i
 
 ### Chapter 8 - Microsoft Azure Cloud IoT (Internet of Things) and Maps Services  (Writing in progress) 
 ### Chapter 9 - Cloud Security, Compliance and Identity Services in Azure (Writing in progress) 
-### Chapter 10 - *Writing in progress* 
+### Chapter 10 - Microsoft Azure Cloud Integration Services (Writing in progress) 
 ### Chapter 11 - *Writing in progress* 
 ### Chapter 12 - *Writing in progress* 
 ### Chapter 13 - *Writing in progress* 
