@@ -5,7 +5,7 @@
 
 ### TOPIC: Microsoft Azure, Cloud Computing, Cloud-Native Development, Learning Microsoft Azure, Azure Fundamentals
 
-YOU MAY READ THE EARLY RELEASE (RAW & UNEDITED) COPY OF THE BOOK:
+YOU MAY READ THE EARLY RELEASE (RAW & UNEDITED) COPY OF THE BOOK: <br>
 If you are interested to read the early release version for free to share your feedback, comments, and appreciation to me as the author before its final publishing and release, 
 please feel free to contact me at jonahandersson@learningmicrosoftazure.com or connect via LinkedIn/Twitter
 
