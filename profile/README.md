@@ -5,11 +5,11 @@
 
 ### TOPIC: Microsoft Azure, Cloud Computing, Cloud-Native Development, Learning Microsoft Azure, Azure Fundamentals
 
-YOU MAY READ THE EARLY RELEASE (RAW & UNEDITED) COPY OF THE BOOK: <br>https://www.twitter.com/cjkodareJonah Carrio Andersson at O'Reilly Media</a>
+YOU MAY READ THE EARLY RELEASE (RAW & UNEDITED) COPY OF THE BOOK:
 If you are interested to read the early release version for free to share your feedback, comments, and appreciation to me as the author before its final publishing and release, 
-please feel free to contact me at jonahandersson@learningmicrosoftazure.com
+please feel free to contact me at jonahandersson@learningmicrosoftazure.com or connect via LinkedIn/Twitter
 
-![Learning Microsoft Azure - The Book](https://learning.oreilly.com/covers/urn:orm:book:9781098113315/400w/)
+![Learning Microsoft Azure - The Book](https://learning.oreilly.com/covers/urn:orm:book:9781098113315/400w//)
 
 ## BOOK DESCRIPTION: 
 
@@ -59,13 +59,12 @@ You'll gain insight into the Microsoft Azure cloud services that you can apply i
 
 <p> explores the Big Data, Reporting and Analytical Services in Microsoft Azure. This chapter will include what you need to know about data analytics, big data, and reporting services in Power BI, Stream Analytics, Data Lake Analytics, Event Hubs, HD Insights and more. </p>
 
-### Chapter 8 - Microsoft Azure Cloud IoT (Internet of Things) and Maps Services  (Writing in progress) 
+### Chapter 8 - Microsoft Azure Cloud IoT (Internet of Things) and Maps Services 
 ### Chapter 9 - Cloud Security, Compliance and Identity Services in Azure (Writing in progress) 
-### Chapter 10 - Microsoft Azure Cloud Integration Services (Writing in progress) 
-### Chapter 11 - *Writing in progress* 
-### Chapter 12 - *Writing in progress* 
-### Chapter 13 - *Writing in progress* 
-### Chapter 14 - *Writing in progress* 
+### Chapter 10 - Microsoft Azure Cloud Integration Services 
+### Chapter 11 - Cloud Development, DevOps and Monitoring in Azure 
+### Chapter 12 - Cloud Management and Governance in Azure (Writing in progress)  
+### Chapter 13 - Azure Cloud Migration and Architecture Guide  (Writing in progress)  
 
 
 ## ABOUT AUTHOR: 
