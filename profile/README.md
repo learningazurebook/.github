@@ -60,12 +60,12 @@ You'll gain insight into the Microsoft Azure cloud services that you can apply i
 <p> explores the Big Data, Reporting and Analytical Services in Microsoft Azure. This chapter will include what you need to know about data analytics, big data, and reporting services in Power BI, Stream Analytics, Data Lake Analytics, Event Hubs, HD Insights and more. </p>
 
 ### Chapter 8 - Microsoft Azure Cloud IoT (Internet of Things) and Maps Services 
-### Chapter 9 - Cloud Security, Compliance and Identity Services in Azure (Writing in progress) 
-### Chapter 10 - Microsoft Azure Cloud Integration Services 
+### Chapter 9 - Azure Security, Identity Management and DevSecOps
+### Chapter 10 - Azure Cloud Integration Services 
 ### Chapter 11 - Cloud Development, DevOps and Monitoring in Azure 
-### Chapter 12 - Cloud Management and Governance in Azure (Writing in progress)  
-### Chapter 13 - Azure Cloud Migration and Architecture Guide  (Writing in progress)  
-
+### Chapter 12 - Cloud Management and Governance in Azure 
+### Chapter 13 - Cloud Migration, Hybrid and Multi-cloud Solutions in Azure
+### Chapter 14 - Cloud Development Tools for Azure 
 
 ## ABOUT AUTHOR: 
 
