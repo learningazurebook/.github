@@ -15,9 +15,9 @@ please feel free to contact me at jonahandersson@learningmicrosoftazure.com or c
 
 <section>
 <p>
-If your organization plans to modernize services and move to the cloud from legacy software or a private cloud on premises, this book is for you. Software developers, solution architects, cloud engineers, and anybody interested in cloud technologies will learn fundamental concepts for cloud computing, migration, transformation, and development using Microsoft Azure.
+If your organization plans to modernize services and move to the cloud from legacy software or a private cloud on-premises, this book is for you. Software developers, solution architects, cloud engineers, and anybody interested in cloud technologies will learn fundamental concepts for cloud computing, migration, transformation, and development using Microsoft Azure.
 
-Author and Microsoft MVP Jonah Carrio Andersson guides you through cloud computing concepts and deployment models, the wide range of modern cloud technologies, application development with Azure, team collaboration services, security services, and cloud migration options in Microsoft Azure.
+Author and Microsoft MVP Jonah Andersson a.k.a Jonah Carrio Andersson guides you through cloud computing concepts and deployment models, the wide range of modern cloud technologies, application development with Azure, team collaboration services, security services, and cloud migration options in Microsoft Azure.
 
 You'll gain insight into the Microsoft Azure cloud services that you can apply in different business use cases, software development projects, and modern solutions in the cloud. You'll also become fluent with Azure cloud migration services, serverless computing technologies that help your development team work productively, Azure IoT, and Azure cognitive services that make your application smarter. This book also provides real-world advice and best practices based on the author's own Azure migration experience.
 
@@ -33,7 +33,7 @@ You'll gain insight into the Microsoft Azure cloud services that you can apply i
 
 ### Chapter 1 - Cloud Computing Fundamentals
 
-<p>The chapter Cloud Computing Fundamentals provides an introduction to the important concepts of cloud computing, how it works, the different types of its deployment models, understanding the types of cloud, what is CapEx and OpEx in cloud computing, and the benefits of utilizing cloud computing in businesses, IT organizations, society and software engineering. </p>
+<p>The chapter Cloud Computing Fundamentals provides an introduction to the important concepts of cloud computing, how it works, the different types of its deployment models, an understanding the types of cloud, what is CapEx and OpEx in cloud computing, and the benefits of utilizing cloud computing in businesses, IT organizations, society and software engineering. </p>
 
 ### Chapter 2 - Microsoft Azure Fundamentals 
 
@@ -72,7 +72,7 @@ You'll gain insight into the Microsoft Azure cloud services that you can apply i
 <section>
 <p>Jonah Andersson a.k.a Jonah Carrio Andersson is a Filipina-Swedish, Microsoft MVP for Azure, Microsoft Certified Trainer, Software Engineer, DevOps Engineer, Tech Mentor, International Public Speaker and Inclusive Tech Community Leader. </p>
 
-<p> She has a background in Bsc. Computer Science and Agile System Development in  Microsoft .NET and Java. She is also a Microsoft Most Valuable Professional (MVP) for Azure, Microsoft Certified Developer (MCT) and Microsoft Certified Azure Developer Associate, who has passed both the Microsoft Certifications AZ-204 Developing Solutions for Azure and AZ-900 Microsoft Azure Fundamentals, SC-900 and more. 
+<p> She has a background in Bsc. Computer Science and Agile System Development in  Microsoft .NET and Java. She is also a Microsoft Most Valuable Professional (MVP) for Azure, Microsoft Certified Trainer (MCT), Microsoft Certified Azure Developer Associate and Microsoft Certified DevOps Engineer Expert. 
 
 Jonah has 15 years of working experience in diferent tech roles and industries. She has several years of experience in sofware development in C# .NET. She likes solving challenging complex problems, programming back-end and software engineering and cloud development in .NET with cloud computing technologies like Microsoft Azure.
 
