@@ -11,6 +11,7 @@ please feel free to contact me at jonahandersson@learningmicrosoftazure.com or c
 
 ![Learning Microsoft Azure - The Book](https://learning.oreilly.com/covers/urn:orm:book:9781098113315/400w//)
 
+*PRE-ORDER BOOK* on Amazon: https://www.amazon.com/Learning-Microsoft-Azure/dp/1098113322 
 ## BOOK DESCRIPTION: 
 
 <section>
@@ -53,7 +54,7 @@ You'll gain insight into the Microsoft Azure cloud services that you can apply i
 
 ### Chapter 6 - Microsoft Azure Artificial Intelligence (AI), Machine Learning, Cognitive Services
 
-<p> focuses on the useful concepts you need to know about Artificial Intelligence(AI), Machine Learning, Cognitive Services, Bot Services in Microsoft Azure that will help and give you knowledge in designing and building smart cloud solutions </p>
+<p> This chapter focuses on the useful concepts you need to know about Artificial Intelligence(AI), Machine Learning, Cognitive Services, Bot Services in Microsoft Azure that will help and give you knowledge in designing and building smart cloud solutions </p>
 
 ### Chapter 7 - Big Data, Reporting and Analytics Services in Azure
 
