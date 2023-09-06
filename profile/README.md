@@ -9,7 +9,7 @@ YOU MAY READ THE EARLY RELEASE (RAW & UNEDITED) COPY OF THE BOOK: <br>
 If you are interested to read the early release version for free to share your feedback, comments, and appreciation to me as the author before its final publishing and release, 
 please feel free to contact me at jonahandersson@learningmicrosoftazure.com or connect via LinkedIn/Twitter
 
-![Learning Microsoft Azure - The Book](https://learning.oreilly.com/covers/urn:orm:book:9781098113315/400w//)
+![Learning Microsoft Azure by Jonah Andersson](https://github.com/learningazurebook/.github/assets/14919667/6393b5e1-fae3-472d-a7df-9137a12a5d0a)
 
 *PRE-ORDER BOOK* on Amazon: https://www.amazon.com/Learning-Microsoft-Azure/dp/1098113322 
 ## BOOK DESCRIPTION: 
