@@ -1,4 +1,4 @@
-# Learning Microsoft Azure (The Book) 
+# Learning Microsoft Azure (O'Reilly) by Jonah Carrio Andersson
 
 ## _Cloud Computing and Development Fundamentals_
 #### Authored by <a href="https://www.linkedin.com/in/jonahandersson/" target="_blank">Jonah Carrio Andersson (LinkedIn)</a> / <a href="https://www.twitter.com/cjkodare" target="_blank">(Twitter)</a>  
